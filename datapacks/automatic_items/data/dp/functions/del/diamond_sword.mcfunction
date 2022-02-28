@@ -1,0 +1,1 @@
+clear @p diamond_sword{display:{Name:'{"text":"Автоматический алмазный меч","color":"green","italic":"false"}'}}

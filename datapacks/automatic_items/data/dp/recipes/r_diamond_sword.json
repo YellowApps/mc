@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "00 ",
+        "00 ",
+        "   "
+    ],
+    "key": {
+        "0": {"item": "minecraft:diamond_sword" }
+    },
+  "result": {
+    "item": "minecraft:knowledge_book",
+    "tag": "{Recipes:[]}"
+  }
+}

@@ -1,0 +1,1 @@
+tellraw @a [{"text":"Датапак Automatic Items загружен.","color":"yellow","bold":"true"}]

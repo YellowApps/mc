@@ -1,0 +1,3 @@
+Проверка 2 execute at @p[nbt={SelectedItem:{id:"minecraft:предмет",tag:{display:{Name:'{"text":"имя","color":"green","italic":"false"}'}}}}] run function dp:use/предмет
+Очистка 2 clear @p предмет{display:{Name:'{"text":"имя","color":"green","italic":"false"}'}}
+Выдача 2 give @p предмет{display:{Name:'{"text":"имя","color":"green","italic":"false"}'}}

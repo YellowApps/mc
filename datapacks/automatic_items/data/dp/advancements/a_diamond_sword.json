@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "dp:r_diamond_sword"
+            }
+        }
+    },
+    "rewards": {
+        "function": "dp:get/diamond_sword"
+    }
+}
